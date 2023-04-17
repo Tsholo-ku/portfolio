@@ -101,7 +101,7 @@ a {
     flex-direction: column;
     max-width: 100%;
     margin: o auto;
-    padding: 100px 0;
+    padding: 5px 0;
 }
 #projects .projects-header h1{
     margin: 50px;
@@ -118,7 +118,7 @@ a {
     justify-content: center;
     flex-direction: column;
     width: 80%;
-    margin: 20px auto;
+    margin: 100px auto;
     overflow: hidden;
     border-radius: 10px;
 }
@@ -174,7 +174,7 @@ a {
     text-align: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 100px 20px;
+    
 }
 #about .col-left{
     width: 550px;
